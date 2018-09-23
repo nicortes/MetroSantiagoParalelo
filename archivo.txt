@@ -1,0 +1,124 @@
+#LINEA1
+1;SP;San Pablo;2;87
+2;NP;Neptuno;3;0
+3;PJ;Pajaritos;4;0
+4;LR;Las Rejas;5;0
+5;EC;Ecuador;6;0
+6;AH;San Alberto Hurtado;7;0
+7;US;Universidad de Santiago;8;0
+8;EL;Estación Central;9;0
+9;LA;ULA;10;0
+10;RP;República;11;0
+11;LH;Los Héroes;12;40
+12;LM;La Moneda;13;0
+13;CH;Universidad de Chile;14;0
+14;SL;Santa Lucía;15;0
+15;UC;Universidad Católica;16;0
+16;BA;Baquedano;17;96
+17;SA;Salvador;18;0
+18;MM;Manuel Montt;19;0
+19;PV;Pedro de Valdivia;20;0
+20;LE;Los Leones;21;118
+21;TB;Tobalaba;22;50
+22;GO;El Golf;23;0
+23;AL;Alcántara;24;0
+24;EM;Escuela Militar;25;0
+25;MQ;Manquehue;26;0
+26;HM;Hernando de Magallanes;27;0
+27;LD;Los Dominicos;0;0
+#LINEA2
+28;LC;La Cisterna;29;78
+29;EP;El Parrón;30;0
+30;LO;Lo Ovalle;31;0
+31;CN;Ciudad del Niño;32;0
+32;DE;Departamental;33;0
+33;LV;Lo Vial;34;0
+34;SM;San Miguel;35;0
+35;LL;El Llano;36;0
+36;FR;Franklin;37;112
+37;RO;Rondizzoni;38;0
+38;PQ;Parque O'Higgins;39;0
+39;TO;Toesca;40;0
+40;HE;Los Héroes;41;0
+41;AN;Santa Ana;42;93
+42;CA;Puente Cal y Canto;43;0
+43;PT;Patronato;44;0
+44;CB;Cerro Blanco;45;0
+45;CE;Cementerios;46;0
+46;EI;Einstein;47;0
+47;DO;Dorsal;48;0
+48;ZA;Zapadores;49;0
+49;AV;Vespucio Norte;0;0
+#LINEA4
+50;TOB;Tobalaba;51;0
+51;COL;Cristóbal Colón;52;0
+52;BIL;Francisco Bilbao;53;0
+53;PDG;Principe de Gales;54;0
+54;SBO;Simón Bolivar;55;0
+55;PEG;Plaza Egaña;56;0
+56;LOR;Los Orientales;57;0
+57;RGR;Grecia;58;0
+58;LPR;Los Presidentes;59;0
+59;RQU;Quilín;60;0
+60;LTO;Las Torres;61;0
+61;MAC;Macul;62;0
+62;VMA;Vicuña Mackenna;63;73
+63;VVA;Vicente Valdés;64;108
+64;RMA;Rojas Magallanes;65;0
+65;TRI;Trinidad;66;0
+66;SJE;San José de la Estrella;67;0
+67;LQU;Los Quillayes;68;0
+68;ECO;Elisa Correa;69;0
+69;HSR;Hospital Sótero del Rio;70;0
+70;PIN;Protectora de la Infancia;71;0
+71;LME;Las Mercedes;72;0
+72;PPA;Plaza de Puente Alto;0;0
+#LINEA4a
+73;VIM;Vicuña Mackenna;74;0
+74;SJU;Santa Julia;75;0
+75;LGR;La Granja;76;0
+76;SRO;Santa Rosa;77;0
+77;SRA;San Ramón;78;0
+78;LCI;La Cisterna;0;0
+#LINEA5
+79;PM;Plaza de Maipú;80;0
+80;SB;Santiago Bueras;81;0
+81;DS;Del Sol;82;0
+82;MT;Monte Tabor;83;0
+83;LP;Las Parcelas;84;0
+84;LS;Laguna Sur;85;0
+85;BR;Barrancas;86;0
+86;PU;Pudahuel;87;0
+87;SO;San Pablo;88;0;0
+88;PR;Lo Prado;89;0
+89;BL;Blanqueado;90;0
+90;GL;Gruta de Lourdes;91;0
+91;QN;Quinta Normal;92;0
+92;RC;Cumming;93;0
+93;NA;Santa Ana;94;0
+94;PZ;Plaza de Armas;95;0
+95;BE;Bellas Artes;96;0
+96;BQ;Baquedano;97;0
+97;PB;Parque Bustamante;98;0
+98;SI;Santa Isabel;99;0
+99;IR;Irarrázaval;100;0
+100;NU;Ñuble;101;114
+101;RA;Rodrigo de Araya;102;0
+102;CV;Carlos Valdovinos;103;0
+103;AG;Camino Agrícola;104;0
+104;SJ;San Joaquín;105;0
+105;PE;Pedrero;106;0
+106;MA;Mirador;107;0
+107;LF;Bellavista de La Florida;108;0
+108;VV;Vicente Valdés;0;0
+#LINEA6
+109;CER;Cerrillos;110;0
+110;LVA;Lo Valledor;111;0
+111;PAC;Pedro Aguirre Cerda;112;0
+112;FRA;Franklin;113;0
+113;BIO;Bío Bío;114;0
+114;NUB;Ñuble;115;0
+115;ESN;Estadio Nacional;116;0
+116;NUO;Ñuñoa;117;0
+117;ISU;Inés de Suárez;118;0
+118;LEN;Los Leones;0;0
