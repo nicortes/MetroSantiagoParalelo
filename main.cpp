@@ -216,11 +216,13 @@ int main(int argc, char** argv) {
     //MPI_Status estados[2];
     MPI_Status estado;  
     
-    if(procesos > 3){
-        cout << endl << "Este programa funciona con 3 procesadores: mpirun -np 2 ./programa -f origen destino" << endl;
+    if(procesos != 3){
+        cout << endl << "Este programa funciona con 3 procesadores: mpirun -np 3 ./programa -f origen destino" << endl;
         MPI_Finalize();
         exit(1);
     }
+
+    //cout << "argc=" << argc << endl;
     
     /// PROCESO MAESTRO
     // LEE EL ARCHIVO, GENERA EL ARREGLO DE STRUCT
@@ -234,7 +236,7 @@ int main(int argc, char** argv) {
 	      cout << endl;
 	      cout << "Forma de uso:" << endl;
 	      cout << "Ver integrantes: ./programa -v" << endl;
-	      cout << "Encontrar ruta más corta: mpirun -np 2 ./programa -f [CODIGO_ESTACION_ORIGEN] [CODIGO_ESTACION_DESTINO]" << endl;
+	      cout << "Encontrar ruta más corta: mpirun -np 3 ./programa -f [CODIGO_ESTACION_ORIGEN] [CODIGO_ESTACION_DESTINO]" << endl;
               cout << endl;
 	         exit(1);
         }
@@ -247,7 +249,7 @@ int main(int argc, char** argv) {
 
         else{
 
-            if(parametro == "-f"){
+            if(parametro == "-f" and argc == 4){
 
                 // Se declara el arreglo que contendrá las estaciones
                 Estacion estaciones[cantidad_estaciones];
